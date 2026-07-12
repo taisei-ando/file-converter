@@ -6,6 +6,7 @@
 
 - `docs/` - 公開用のHTML/CSS一式
 - `legal-text/` - 利用規約とプライバシーポリシーのMarkdown原稿
+- `docs/licenses.html` - SDKとフォントのライセンス・帰属表示
 
 ## 確認方法
 
